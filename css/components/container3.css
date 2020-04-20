@@ -1,0 +1,18 @@
+
+.container3 {
+	margin-top: 62px;
+	margin-right: 290px;
+	margin-left: 336px;
+}
+
+.container3 h3 {
+	max-width: none;
+    padding: 0;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+
+
+
+@media only screen and (max-width: 1449px) and (min-width: 950px), only screen and (min-width: 1450px)

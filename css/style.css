@@ -1,0 +1,95 @@
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+@import url("components/container2.css");
+@import url("components/card1.css");
+@import url("components/tabcontent1.css");
+@import url("components/card2.css");
+@import url("components/tabcontent2.css");
+@import url("components/tabcontent3.css");
+@import url("components/dropdownMenuButton.css");
+@import url("components/container3.css");
+@import url("components/container4.css");
+@import url("components/video1.css");
+
+
+body {
+	font-family: Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	display: block;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	height: 110px;
+	margin-top: 140px;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 26px;
+	height: 33px;
+	margin: 1rem auto;
+}
+
+h3 {
+	font-size: 23px;
+	height: 58px;
+	margin-top: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+    display: block;
+    color: #757575;
+    list-style-type: disc;
+    padding-left: 0px;
+    margin-top: 28px;
+}
+
+
+
+li {
+	box-sizing: border-box;
+    padding: 0;
+    margin-bottom: 16px;
+    display: inline-block;
+    min-width: 100px;
+    width: 25%;
+    vertical-align: top;
+    font-size: 13px;
+}
+
+.container4 a {
+	color: #757575;
+	font-size: 15px;
+}
+
+
+.button2 {
+	border-radius: 2%;
+	color: black;
+	font-size: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

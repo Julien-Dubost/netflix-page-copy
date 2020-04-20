@@ -1,0 +1,9 @@
+.tabcontent1 {
+	position: relative;
+    z-index: 2;
+    max-width: 100%;
+    height: auto;
+    border: 0;
+    margin: -27% 0% 0% 400px;
+    padding-left: 200px;
+}

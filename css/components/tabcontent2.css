@@ -1,0 +1,25 @@
+.tabcontent2 img {
+	width: 500px;
+	height: 375px;
+	margin: -2% 0% 11% 0px;
+}
+
+.card2 h1 {
+	font-size: 3.125rem;
+	text-align: left;
+	line-height: 1.1;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+.card2 h2 {
+	font-size: 1.625rem;
+    font-weight: normal;
+    text-align: left;
+    color: white;
+}
+
+.card2 {
+	padding: 0px 0px 0px 610px;
+	margin-top: -472px;
+}

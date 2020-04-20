@@ -1,0 +1,20 @@
+#dropdownMenuButton {
+	border-radius: 2%;
+	font-weight: 400;
+	cursor: pointer;
+	padding: 0.8em 2.2em 0.8em 1.2em;
+    margin-bottom: 10px;
+    font-weight: 400;    
+    position: relative;
+    width: 100%;
+    border: 0;
+    text-align: left;
+    margin-left: 310px;
+    display: block;
+    text-align: left;
+    background: #303030;
+    overflow: visible;
+    width: 57%;
+    font-size: 26px;
+	font-weight: 400;
+}
